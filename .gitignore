@@ -1,0 +1,4 @@
+# Security Standard: Ignore raw and cleaned datasets (Data Privacy Compliance)
+data/*.csv
+.DS_Store
+__pycache__/
